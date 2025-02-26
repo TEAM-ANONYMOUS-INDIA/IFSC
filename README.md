@@ -27,9 +27,8 @@ python3 ifsc.py
 Enter a valid 11-character IFSC code, and the script will display detailed information.
 
 🔹 Example Output
+```
 
-----------------------------------------
-###
 🔍 IFSC Code: HDFC0001234
 🏦 Bank: HDFC BANK
 📍 Branch: MG ROAD
@@ -43,7 +42,7 @@ Enter a valid 11-character IFSC code, and the script will display detailed infor
 💳 NEFT Supported: ✅ Yes
 📲 IMPS Supported: ✅ Yes
 🏦 UPI Enabled: ❌ No
-###
+```
 ----------------------------------------
 
 ⚠️ Error Handling
